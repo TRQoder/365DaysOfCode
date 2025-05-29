@@ -22,7 +22,6 @@ End : 4 May 2026
 
 # Month wise
 ## May
-    
 ## June
 ## July
 ## August
@@ -35,4 +34,25 @@ End : 4 May 2026
 ## March
 ## April
 ## May
+
+# Week wise
+
+## Week 01
+## Week 02
+
+## Week 03
+```
+## Web Development
+    React-router-dom
+    Context Api
+    Local Storage
+## DSA
+    OOPs Lec 1
+    OOPs Lec 2
+    OOPs Lec 3
+
+## PROJECT
+
+```
+
 
